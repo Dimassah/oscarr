@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Dimassah/oscarr/static/css/main.6cc64eb8.chunk.css",
-    "main.js": "/Dimassah/oscarr/static/js/main.b0de9cb2.chunk.js",
-    "main.js.map": "/Dimassah/oscarr/static/js/main.b0de9cb2.chunk.js.map",
-    "runtime-main.js": "/Dimassah/oscarr/static/js/runtime-main.f6c1af28.js",
-    "runtime-main.js.map": "/Dimassah/oscarr/static/js/runtime-main.f6c1af28.js.map",
-    "static/js/2.8b48db95.chunk.js": "/Dimassah/oscarr/static/js/2.8b48db95.chunk.js",
-    "static/js/2.8b48db95.chunk.js.map": "/Dimassah/oscarr/static/js/2.8b48db95.chunk.js.map",
-    "index.html": "/Dimassah/oscarr/index.html",
-    "precache-manifest.d67125e922d98a258ea76deafb9698be.js": "/Dimassah/oscarr/precache-manifest.d67125e922d98a258ea76deafb9698be.js",
-    "service-worker.js": "/Dimassah/oscarr/service-worker.js",
-    "static/css/main.6cc64eb8.chunk.css.map": "/Dimassah/oscarr/static/css/main.6cc64eb8.chunk.css.map",
-    "static/js/2.8b48db95.chunk.js.LICENSE.txt": "/Dimassah/oscarr/static/js/2.8b48db95.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/Dimassah/oscarr/static/media/oscarWiners-2.73747383.jpg"
+    "main.css": "/oscarr/static/css/main.9e763dc5.chunk.css",
+    "main.js": "/oscarr/static/js/main.ca919b6d.chunk.js",
+    "main.js.map": "/oscarr/static/js/main.ca919b6d.chunk.js.map",
+    "runtime-main.js": "/oscarr/static/js/runtime-main.c538f51d.js",
+    "runtime-main.js.map": "/oscarr/static/js/runtime-main.c538f51d.js.map",
+    "static/js/2.8b48db95.chunk.js": "/oscarr/static/js/2.8b48db95.chunk.js",
+    "static/js/2.8b48db95.chunk.js.map": "/oscarr/static/js/2.8b48db95.chunk.js.map",
+    "index.html": "/oscarr/index.html",
+    "precache-manifest.ffe39bd5488cfb59ba3b074b6baca641.js": "/oscarr/precache-manifest.ffe39bd5488cfb59ba3b074b6baca641.js",
+    "service-worker.js": "/oscarr/service-worker.js",
+    "static/css/main.9e763dc5.chunk.css.map": "/oscarr/static/css/main.9e763dc5.chunk.css.map",
+    "static/js/2.8b48db95.chunk.js.LICENSE.txt": "/oscarr/static/js/2.8b48db95.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/oscarr/static/media/oscarWiners-2.73747383.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6c1af28.js",
+    "static/js/runtime-main.c538f51d.js",
     "static/js/2.8b48db95.chunk.js",
-    "static/css/main.6cc64eb8.chunk.css",
-    "static/js/main.b0de9cb2.chunk.js"
+    "static/css/main.9e763dc5.chunk.css",
+    "static/js/main.ca919b6d.chunk.js"
   ]
 }
