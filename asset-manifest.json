@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/oscarr/static/css/main.9e763dc5.chunk.css",
-    "main.js": "/oscarr/static/js/main.ca919b6d.chunk.js",
-    "main.js.map": "/oscarr/static/js/main.ca919b6d.chunk.js.map",
+    "main.js": "/oscarr/static/js/main.c18e4525.chunk.js",
+    "main.js.map": "/oscarr/static/js/main.c18e4525.chunk.js.map",
     "runtime-main.js": "/oscarr/static/js/runtime-main.c538f51d.js",
     "runtime-main.js.map": "/oscarr/static/js/runtime-main.c538f51d.js.map",
     "static/js/2.8b48db95.chunk.js": "/oscarr/static/js/2.8b48db95.chunk.js",
     "static/js/2.8b48db95.chunk.js.map": "/oscarr/static/js/2.8b48db95.chunk.js.map",
     "index.html": "/oscarr/index.html",
-    "precache-manifest.ffe39bd5488cfb59ba3b074b6baca641.js": "/oscarr/precache-manifest.ffe39bd5488cfb59ba3b074b6baca641.js",
+    "precache-manifest.32c907b956465f02d2343b35198df2a3.js": "/oscarr/precache-manifest.32c907b956465f02d2343b35198df2a3.js",
     "service-worker.js": "/oscarr/service-worker.js",
     "static/css/main.9e763dc5.chunk.css.map": "/oscarr/static/css/main.9e763dc5.chunk.css.map",
     "static/js/2.8b48db95.chunk.js.LICENSE.txt": "/oscarr/static/js/2.8b48db95.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c538f51d.js",
     "static/js/2.8b48db95.chunk.js",
     "static/css/main.9e763dc5.chunk.css",
-    "static/js/main.ca919b6d.chunk.js"
+    "static/js/main.c18e4525.chunk.js"
   ]
 }
