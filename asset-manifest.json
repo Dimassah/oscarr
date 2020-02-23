@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dimassah/oscarr.git/static/css/main.9141de8e.chunk.css",
+    "main.js": "/Dimassah/oscarr.git/static/js/main.45c5b8d2.chunk.js",
+    "main.js.map": "/Dimassah/oscarr.git/static/js/main.45c5b8d2.chunk.js.map",
+    "runtime-main.js": "/Dimassah/oscarr.git/static/js/runtime-main.53607b42.js",
+    "runtime-main.js.map": "/Dimassah/oscarr.git/static/js/runtime-main.53607b42.js.map",
+    "static/js/2.8b48db95.chunk.js": "/Dimassah/oscarr.git/static/js/2.8b48db95.chunk.js",
+    "static/js/2.8b48db95.chunk.js.map": "/Dimassah/oscarr.git/static/js/2.8b48db95.chunk.js.map",
+    "index.html": "/Dimassah/oscarr.git/index.html",
+    "precache-manifest.56581486f644b276171329e72d4efbe4.js": "/Dimassah/oscarr.git/precache-manifest.56581486f644b276171329e72d4efbe4.js",
+    "service-worker.js": "/Dimassah/oscarr.git/service-worker.js",
+    "static/css/main.9141de8e.chunk.css.map": "/Dimassah/oscarr.git/static/css/main.9141de8e.chunk.css.map",
+    "static/js/2.8b48db95.chunk.js.LICENSE.txt": "/Dimassah/oscarr.git/static/js/2.8b48db95.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Dimassah/oscarr.git/static/media/oscarWiners-2.73747383.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53607b42.js",
+    "static/js/2.8b48db95.chunk.js",
+    "static/css/main.9141de8e.chunk.css",
+    "static/js/main.45c5b8d2.chunk.js"
+  ]
+}
